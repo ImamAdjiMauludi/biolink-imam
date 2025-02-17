@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelector(".name"), // Nama
     document.querySelector(".bio"), // Bio
     document.querySelector(".social-icons"), // Media sosial
+    document.querySelector(".footer"), // Footer
     ...document.querySelectorAll(".link"), // Semua tautan
   ];
 
